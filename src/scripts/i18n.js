@@ -9,7 +9,7 @@ const translations = {
     'nav.book': 'Reservar',
 
     // Hero
-    'hero.title': 'Carmen',
+    'hero.title': 'Carmen Guillani',
     'hero.tagline': 'Belleza & Cuidado de la Piel',
     'hero.cta': 'Reserva tu Cita',
     'hero.scroll': 'Scroll',
@@ -97,7 +97,7 @@ const translations = {
     'nav.book': 'Book Now',
 
     // Hero
-    'hero.title': 'Carmen',
+    'hero.title': 'Carmen Guillani',
     'hero.tagline': 'Beauty & Skincare Specialist',
     'hero.cta': 'Book Your Appointment',
     'hero.scroll': 'Scroll',
